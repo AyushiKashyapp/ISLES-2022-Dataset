@@ -1,6 +1,6 @@
 # 🚀 Stroke Lesion Segmentation with ISLES'22 Dataset
 
-Welcome to this exciting project! 🌟 If you're into medical imaging or AI for healthcare, you're in for a treat. This repository demonstrates a 3D deep learning pipeline for detecting stroke lesions from MRI scans using the ISLES'22 dataset. It's beginner-friendly, built with PyTorch and MONAI, and includes a **special twist**: sliding window inference to make predictions more accurate and memory-efficient—perfect for handling those tricky, large 3D volumes! 🧠💡 (Find it here!)[https://github.com/AyushiKashyapp/ISLES-2022-Dataset/blob/main/ISLES-2022/ISLES-2022.ipynb]
+Welcome to this exciting project! 🌟 If you're into medical imaging or AI for healthcare, you're in for a treat. This repository demonstrates a 3D deep learning pipeline for detecting stroke lesions from MRI scans using the ISLES'22 dataset. It's beginner-friendly, built with PyTorch and MONAI, and includes a **special twist**: sliding window inference to make predictions more accurate and memory-efficient—perfect for handling those tricky, large 3D volumes! 🧠💡 [Find it here!](https://github.com/AyushiKashyapp/ISLES-2022-Dataset/blob/main/ISLES-2022/ISLES-2022.ipynb)
 
 ## 📖 Overview
 Stroke is a leading cause of disability, and early lesion detection from MRI scans can save lives. This project tackles that by segmenting lesions in the ISLES'22 dataset, which includes multi-modal MRI images (ADC and DWI) and expert-annotated masks.
