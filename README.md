@@ -22,8 +22,8 @@ After 10 epochs:
 These are from a quick run—longer training would boost scores! Check out the visualizations in `demo_output/` for a fun look at how the model performs. 😎
 
 Example Visualization (`segmentation_demo_sample_1.png`):
-![Segmentation Demo](demo_output/segmentation_demo_sample_1.png)
-*Left: ADC Input 🖼️, Middle: Ground Truth Mask ✅, Right: Predicted Mask 🔮*
+![Segmentation Demo](https://github.com/AyushiKashyapp/ISLES-2022-Dataset/blob/main/ISLES-2022/pred.png)
+*Left: Predicted lesion voxels: 28371 🖼️, True lesion voxels: 19252🔮*
 
 ## 🗂️ Dataset
 The [ISLES'22 dataset](https://www.kaggle.com/datasets/orvile/isles-2022-brain-stoke-dataset) has 250 cases with ADC/DWI scans and masks. We resample everything to `./isles2022_resampled` for consistency. 📁
